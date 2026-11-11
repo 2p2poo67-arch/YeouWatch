@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.1.0",
+	"FriendlyName": "YeouAutoShot",
+	"Description": "Automatic in-game screenshots for AI-assisted development (YeouWatch). Runs only with -YeouAutoShot. YeouWatch License 1.0, see LICENSE.txt.",
+	"Category": "Developer Tools",
+	"CreatedBy": "심혜연",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"CanContainContent": false,
+	"Installed": false,
+	"Modules": [
+		{ "Name": "YeouAutoShot", "Type": "Runtime", "LoadingPhase": "Default" }
+	]
+}

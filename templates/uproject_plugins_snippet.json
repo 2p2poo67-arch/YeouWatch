@@ -1,0 +1,8 @@
+[
+	{ "Name": "ModelContextProtocol", "Enabled": true },
+	{ "Name": "AllToolsets", "Enabled": true },
+	{ "Name": "Terminal", "Enabled": true },
+	{ "Name": "PythonScriptPlugin", "Enabled": true },
+	{ "Name": "EditorScriptingUtilities", "Enabled": true },
+	{ "Name": "YeouAutoShot", "Enabled": true }
+]

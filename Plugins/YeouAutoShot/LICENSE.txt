@@ -1,0 +1,41 @@
+YeouWatch License 1.0 (여우와쳐 라이선스 1.0)
+Copyright (c) 2026 심혜연 (2p2poo67-arch). All rights reserved.
+
+YeouWatch 1.1.0 - 언리얼 엔진 ↔ Claude 파일 요청 와쳐, YeouAutoShot 플러그인, 설정 파일과 문서
+("이 소프트웨어").
+
+[한국어]
+1. 허용: 누구나 이 소프트웨어를 무료로 내려받아 개인·학교·회사 프로젝트에 쓰고, 고치고,
+   그 프로젝트로 만든 게임이나 결과물을 상업적으로 팔 수 있습니다. 결과물(게임)에는 이 라이선스가
+   적용되지 않습니다.
+2. 표시 의무: 이 소프트웨어나 고친 판을 다시 배포할 때는 이 LICENSE.txt와 NOTICE.txt를 그대로
+   함께 넣고, 각 파일 맨 위의 저작권 머리말을 지우거나 바꾸지 않아야 합니다. 고친 판이면
+   고쳤다는 사실을 적어야 합니다.
+3. 금지: 저작권자의 서면 허락 없이 이 소프트웨어 자체(또는 고친 판)를 돈을 받고 팔거나,
+   유료 상품·유료 강의 자료의 일부로 묶어 팔 수 없습니다. 저작권자 이름을 빼고 자신이 만든
+   것처럼 배포할 수 없습니다.
+4. 이름: "YeouWatch", "여우와쳐", "여우고택"이라는 이름으로 고친 판을 공식판처럼 내놓을 수 없습니다.
+5. 보증 없음: 이 소프트웨어는 "있는 그대로" 제공됩니다. 빌드·패키징·파일 정리 중 생길 수 있는
+   손해에 대해 저작권자는 책임지지 않습니다. 쓰기 전에 프로젝트를 백업하세요.
+6. 위 조건을 어기면 이 라이선스로 받은 권리는 자동으로 끝납니다.
+7. 이 라이선스는 대한민국 법을 따릅니다. 한국어 본문과 영어 본문이 다르면 한국어 본문이 우선합니다.
+   상업적 이용 허락 문의: GitHub 2p2poo67-arch
+
+[English]
+1. Permission: anyone may download, use and modify this software free of charge in personal,
+   school or commercial projects, and may sell games or other works made with it. Those works are
+   not covered by this license.
+2. Attribution: any redistribution of this software or a modified version must include this
+   LICENSE.txt and NOTICE.txt unchanged, and must keep the copyright header at the top of every
+   file. Modified versions must say that they were modified.
+3. Not allowed without the copyright holder's written permission: selling this software itself
+   (or a modified version), or bundling it into a paid product or paid course material.
+   Removing the author's name or presenting the software as your own work is not allowed.
+4. Names: modified versions may not be published as an official release under the names
+   "YeouWatch", "여우와쳐" or "여우고택".
+5. No warranty: the software is provided "AS IS", without warranty of any kind. The copyright
+   holder is not liable for any damage arising from builds, packaging or file operations.
+   Back up your project before use.
+6. Your rights under this license end automatically if you break these terms.
+7. Governed by the laws of the Republic of Korea. If the Korean and English texts differ,
+   the Korean text prevails. Commercial permission: GitHub 2p2poo67-arch

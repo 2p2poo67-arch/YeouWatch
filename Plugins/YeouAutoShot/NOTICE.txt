@@ -1,0 +1,22 @@
+YeouWatch 1.1.0
+Copyright (c) 2026 심혜연 (2p2poo67-arch). All rights reserved.
+Licensed under the YeouWatch License 1.0 (LICENSE.txt).
+
+이 키트는 언리얼 엔진 5 게임 「여우고택」을 만들면서 실제로 쓴 자동화 도구를 일반 프로젝트용으로 정리한 것입니다.
+This kit generalizes the automation used to build the Unreal Engine 5 game "YeouGotaek".
+
+제작 / Credits
+- 기획·설계·검증 / Design, direction, testing: 심혜연
+- 코드 작성 보조 / Code written with the help of an AI assistant (Claude by Anthropic)
+
+제3자 상표 / Third-party marks
+- Unreal Engine 은 Epic Games, Inc. 의 상표입니다. 이 키트는 Epic Games 와 관계가 없고, 엔진 파일을 포함하지 않습니다.
+  Unreal Engine is a trademark of Epic Games, Inc. This kit is not affiliated with Epic Games and contains no engine files.
+- Claude 는 Anthropic 의 상표입니다. 이 키트는 Anthropic 의 공식 제품이 아닙니다.
+  Claude is a trademark of Anthropic. This kit is not an official Anthropic product.
+- Model Context Protocol(MCP) 설정 예시는 언리얼 엔진 5.8 의 실험 기능 플러그인 설정을 보여 줄 뿐입니다.
+  The MCP sample only shows how to enable Unreal Engine 5.8's experimental plugin; no plugin code is included.
+
+게임 스크린샷 / Game screenshots on the website
+- 「여우고택」 스크린샷은 소개용이며 이 라이선스에 포함되지 않습니다. 무단 사용 금지.
+  The YeouGotaek screenshots are for presentation only and are not licensed for reuse.
